@@ -5,7 +5,8 @@ One of the most exciting areas in all of data science right now is wearable comp
 The project is about Human Activity Recognition database built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.
 
 This repository contains the following files:
-* **README.md**, this file, which provides an overview of the data set and how it was created.
-* **tidy_data.txt**, which contains the data set.
+* **README.md**: provides an overview of the data set and how it was created.
+* **tidy_data.txt**: contains a tidy data set as required.
 * **CodeBook.md**, describes the variables, the data, and any transformations.
-* **run_analysis.R**, the R script that was used to create the data set (see the Creating the data set section below)
+* **run_analysis.R**, the R script that was used to clean the data.
+
