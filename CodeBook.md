@@ -5,19 +5,28 @@
 * Subject identifies the subject who performed the activity for each window sample. Its range is from 1 to 30.
  `subject`
 * Activity names:  WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
+
  `activity`
    
 * Average time-domain body acceleration in the X, Y and Z directions:
 
+
 `timeDomainBodyAccelerometerMeanX`
+
 `timeDomainBodyAccelerometerMeanY`
+
 `timeDomainBodyAccelerometerMeanZ`
+
 
 * Standard deviation of the time-domain body acceleration in the X, Y and Z directions:
 
+
 `timeDomainBodyAccelerometerStandardDeviationX`
+
 `timeDomainBodyAccelerometerStandardDeviationY`
+
 `timeDomainBodyAccelerometerStandardDeviationZ`
+
 
 * Average time-domain gravity acceleration in the X, Y and Z directions:
 
