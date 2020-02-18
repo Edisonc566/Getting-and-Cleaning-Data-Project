@@ -6,15 +6,12 @@
  `subject`
 * Activity names:  WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 
- `activity`
+  `activity`
    
 * Average time-domain body acceleration in the X, Y and Z directions:
 
-
 `timeDomainBodyAccelerometerMeanX`
-
 `timeDomainBodyAccelerometerMeanY`
-
 `timeDomainBodyAccelerometerMeanZ`
 
 
