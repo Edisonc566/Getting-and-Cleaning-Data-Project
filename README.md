@@ -7,6 +7,6 @@ The project is about Human Activity Recognition database built from the recordin
 This repository contains the following files:
 * **README.md**: provides an overview of the data set and how it was created.
 * **tidy_data.txt**: contains a tidy data set as required.
-* **CodeBook.md**, describes the variables, the data, and any transformations.
-* **run_analysis.R**, the R script that was used to clean the data.
+* **CodeBook.md**: describes the variables, the data, and any transformations.
+* **run_analysis.R**: the R script that was used to clean the data.
 
