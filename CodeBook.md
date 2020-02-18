@@ -10,23 +10,25 @@
 
    - Activity names:  WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 
+* timeDomainBodyAccelerometerMeanX
+* timeDomainBodyAccelerometerMeanY
+* timeDomainBodyAccelerometerMeanZ
+
+   - Average time-domain body acceleration in the X, Y and Z directions
+   
+* timeDomainBodyAccelerometerStandardDeviationX
+* timeDomainBodyAccelerometerStandardDeviationY
+* timeDomainBodyAccelerometerStandardDeviationZ
+
+   - Standard deviation of the time-domain body acceleration in the X, Y and Z directions
+   
+* timeDomainGravityAccelerometerMeanX
+* timeDomainGravityAccelerometerMeanY
+* timeDomainGravityAccelerometerMeanZ
+    - Average time-domain gravity acceleration in the X, Y and Z directions:
 
 
-Average time-domain body acceleration in the X, Y and Z directions:
 
-timeDomainBodyAccelerometerMeanX
-timeDomainBodyAccelerometerMeanY
-timeDomainBodyAccelerometerMeanZ
-Standard deviation of the time-domain body acceleration in the X, Y and Z directions:
-
-timeDomainBodyAccelerometerStandardDeviationX
-timeDomainBodyAccelerometerStandardDeviationY
-timeDomainBodyAccelerometerStandardDeviationZ
-Average time-domain gravity acceleration in the X, Y and Z directions:
-
-timeDomainGravityAccelerometerMeanX
-timeDomainGravityAccelerometerMeanY
-timeDomainGravityAccelerometerMeanZ
 Standard deviation of the time-domain gravity acceleration in the X, Y and Z directions:
 
 timeDomainGravityAccelerometerStandardDeviationX
